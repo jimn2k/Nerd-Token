@@ -1,0 +1,19 @@
+{
+  "name": "nerd-token",
+  "version": "0.0.1",
+  "description": "An NFT that tracks nerds",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sam Stutler",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1"
+  }
+}
